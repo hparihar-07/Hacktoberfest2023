@@ -1,6 +1,6 @@
-<p align="center"><img src="img/hacktoberfest.svg"></p>
+<p align="center"><img src="public/img/hacktoberfest.svg"></p>
 
-# <p align="center"> Hacktoberfest 2023 ✅ </p>
+# <p align="center"> Hacktoberfest 2023 ✅ | RealMate </p>
 
 
 ## How to Contribute to this project
@@ -25,11 +25,11 @@ cd Hacktoberfest2023
 ```
 4. Open CMD in your current directory and install npm packages using command.
 ```markdown
-npm install
+npm install / yarn
 ```
 5. Run the project.
 ```markdown
-npm run dev
+npm run dev / yarn dev
 ```
 
 5. Make changes in the project. Add, Commit and Push the project using following commands:
