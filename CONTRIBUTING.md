@@ -59,7 +59,7 @@ This can also help to avoid conflicts between multiple contributors and ensure t
 
 ## For new contributors
 If you are new to open source and want to contribute to this project, you can start by looking at the issues labeled as "good first issue". These issues are meant to be beginner-friendly and can be a good starting point for new contributors.
-> You have to add your details in contributors file. You can find the file in the `src/json/Contributors.json`. Otherwise, your pull request will be rejected.
+> You have to add your details in contributors file. You can find the file in the `src/data/Contributors.json`. Otherwise, your pull request will be rejected.
 
 ## Don't Forget to JOIN OUR COMMMUNITY
 Join our community and ask anything. If you run into a problem please let us know.
