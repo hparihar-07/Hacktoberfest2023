@@ -8,6 +8,8 @@
 1. [Local Development](https://github.com/devvsakib/Hacktoberfest2023#local-development)
 2. [Gitpod](https://github.com/devvsakib/Hacktoberfest2023#gitpod)
 
+*** Please read this before submitting a pull request! [Guideline](https://github.com/devvsakib/hacktoberfest2023/blob/main/CONTRIBUTING.md) ***
+
 ### Local Development
 
 1. Fork the repository first (Click the Fork button in the top right of this page,
